@@ -3,6 +3,8 @@
   "version": "1.0.0",
   "description": "whatsappbot termux",
   "main": "index.js",
+  "scripts": {
+    "start": "node app.js",
   "directories": {
     "lib": "lib"
   },
